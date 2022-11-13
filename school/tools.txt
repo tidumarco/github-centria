@@ -1,1 +1,18 @@
+<<<<<<< Updated upstream
 First line here.
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second change here.
+>>>>>>> Stashed changes
